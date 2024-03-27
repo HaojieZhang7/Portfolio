@@ -17,10 +17,10 @@ const About = () => {
           <div>
             <p>
               As a front-end developer, I'm driven by a passion for building
-              clean, user-friendly interfaces. I thrive on tackling challenges
-              head-on and constantly seek opportunities to learn and grow in
-              this dynamic field. Let's bring creativity and innovation to the
-              table together!
+              clean, user-friendly web applications. I thrive on tackling
+              challenges head-on and constantly seek opportunities to learn and
+              grow in this dynamic field. Let's bring creativity and innovation
+              to the table together!
             </p>
           </div>
         </div>
